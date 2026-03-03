@@ -20,9 +20,9 @@ Ligue o PC e pressione F10 para entrar no BIOS Setup.
 
 Vá na aba Advanced.
 
-Procure por BIOS Power-On ou Hardware Power Management.
+Procure por Scheduled Power-On.
 
-Ative a opção e defina os dias da semana e o horário desejado.
+Ative os dias da semana e o horário desejado.
 
 Pressione F10 para salvar e sair.
 

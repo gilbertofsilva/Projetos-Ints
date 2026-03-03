@@ -16,7 +16,7 @@ Em ambientes críticos como hospitais, o tempo de boot e carregamento de sistema
 ### 1. Configuração Manual (BIOS/UEFI)
 Para máquinas Hp Prodesk 400 G9, o ajuste é feito diretamente na interface de firmware:
 
-Ligue o PC e pressione F10 (ou Esc e depois F10) para entrar no BIOS Setup.
+Ligue o PC e pressione F10 para entrar no BIOS Setup.
 
 Vá na aba Advanced.
 
@@ -29,4 +29,4 @@ Pressione F10 para salvar e sair.
 ---
 
 
-**Mantido pela Equipe de T.I. Hospitalar** 🏥
+**GILBERTO SILVA** 🏥
